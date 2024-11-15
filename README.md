@@ -1,5 +1,5 @@
 # 💫 About Me:
-laravel<br>reactjs<br>python<br>
+img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/220/220764.gif">
 
 
 ## 🌐 Socials:
